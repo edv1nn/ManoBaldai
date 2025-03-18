@@ -20,7 +20,7 @@ Responsive ManoBaldai built with React and Vite.
 ```
 *Available Scripts*
 ```bash
-~ npm run dev
+~ npm start
 ```
 
 </details>
